@@ -64,11 +64,13 @@ See the section about deployment for more information.
 # Preview
 ![Screenshots](/screenshots/sd1.jpeg)
 ![Screenshots](/screenshots/sd2.jpeg)
-![Screenshots](/screenshots/sd3.jpeg)
+![Screenshots](/screenshots/sd3n.jpeg)
 ![Screenshots](/screenshots/sd4.jpeg)
 ![Screenshots](/screenshots/sd5.jpeg)
 ![Screenshots](/screenshots/sd6.jpeg)
 ![Screenshots](/screenshots/sd7.jpeg)
+![Screenshots](/screenshots/sd8.jpeg)
+![Screenshots](/screenshots/sd9.jpeg)
 
 
 # Website link
